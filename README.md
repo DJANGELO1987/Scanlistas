@@ -1,4 +1,4 @@
-# Scanlistas1
+# Scanlistas
 Scanear Lista M3U
 
 
