@@ -8,4 +8,4 @@ cdScanlistas
 
 ls
 
-pythom3 BrutalXtreme.py
+python3 BrutalXtreme.py
